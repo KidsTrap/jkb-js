@@ -1,0 +1,12 @@
+{
+	"uq" : "unqueue",
+	"z"  : "undo",
+	"q"  : "queue",
+	"p"  : "play",
+	"n"  : "now",
+	"mh" : "movehere",
+	"fs" : "forceskip",
+	"r"  : "resume",
+	"ps" : "pause",
+	"vcr": "voicereset"
+}
